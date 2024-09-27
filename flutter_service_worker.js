@@ -3,9 +3,9 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "f706814b5c948f659d86d3c3432fd9c3",
-"assets/AssetManifest.bin.json": "b2b8696f4e6ab40c8e0e06760001138e",
-"assets/AssetManifest.json": "1995ae6e7decb11c659139f3d2485e49",
+const RESOURCES = {"assets/AssetManifest.bin": "5097dbc3adc2cd093714d4d630adb3a7",
+"assets/AssetManifest.bin.json": "77376c04e5a095329399a3906aef4f0f",
+"assets/AssetManifest.json": "aaef478a9f908663a3a47c129178052e",
 "assets/assets/images/gamification/background/bg_1.jpg": "fb1197ec00a3f8ab62970276dc826ca6",
 "assets/assets/images/gamification/background/bg_2.jpg": "cb03d5958be2de311da5e4012319e56d",
 "assets/assets/images/gamification/background/bg_3.jpg": "a86f7a2972f79bc05443c993d5691da3",
@@ -26,6 +26,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "f706814b5c948f659d86d3c3432fd9c3
 "assets/assets/images/gamification/Icon_Small_WhiteOutline_Home.png": "e442fe7aaba75e4ddd2f79bb622f8a9d",
 "assets/assets/images/gamification/Icon_Small_WhiteOutline_Key.png": "ddf540d8af7a98fa0a400ddd2596f1af",
 "assets/assets/images/gamification/samurai_chara.png": "e9f23a772e2062e93ea955778bce9268",
+"assets/assets/images/gamification/samurai_kurobushi.png": "ce0c87cc9b54996a7eceff0d3bdf053a",
 "assets/assets/images/gamification/sky_bg.png": "2377092f2faabbd35ec138da466a7afb",
 "assets/assets/images/gamification/TextBox_Blank_Side.png": "37d932a9b070a3324fd9f13a0b1492dd",
 "assets/assets/images/gamification/treasure_chest.png": "a13e204673b406c511291b1e860a57a1",
@@ -52,9 +53,9 @@ const RESOURCES = {"assets/AssetManifest.bin": "f706814b5c948f659d86d3c3432fd9c3
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "87a606d2cc1dd3b98e7bcd118ac5351a",
-"/": "87a606d2cc1dd3b98e7bcd118ac5351a",
-"main.dart.js": "708dc46cd100e4313bf81e34a49484be",
+"index.html": "1b173f79bb4450cb45a70329d6c78d54",
+"/": "1b173f79bb4450cb45a70329d6c78d54",
+"main.dart.js": "2d2ce6265102692529c34484d3668e8b",
 "manifest.json": "000f4676d7864452e10e7eb7f09d51fe",
 "version.json": "ac318350482e278d6ed72c64c542867e"};
 // The application shell files that are downloaded before a service worker can
